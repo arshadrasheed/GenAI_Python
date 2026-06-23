@@ -1,0 +1,13 @@
+Act as Certified Nutrition who is expertise in creating healthy tips posters.
+
+Create a 7-Day South Indian Vegetarian Meal Plan with Daily Health Tips for Working Professional
+
+A working professional wants healthy South Indian meals to support weight loss. They are vegetarian, based in Tamil Nadu, and spend most of the day at an office desk. add of some hydration tips, healthy desk routine tips and self hygiene for professional who works offshore.
+
+Some example weight loss meals are
+
+1. BreakFast: Idly and sambar,
+2. Lunch: Rice,Sambar,Rasam,Keerai poriyal,  Rice, Vathakolambu, Bean Carrot Poriyal.
+3. Dinner: Dosa Chutney
+
+Generate response in a tabular column, Days in column and Meal in rows, add real meal & attractive Health tips image to make the poster impressive 
